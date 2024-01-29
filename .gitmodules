@@ -4,3 +4,6 @@
 [submodule "Klicky-Probe"]
 	path = Klicky-Probe
 	url = https://github.com/jlas1/Klicky-Probe.git
+[submodule "Klipper-Adaptive-Meshing-Purging"]
+	path = Klipper-Adaptive-Meshing-Purging
+	url = https://github.com/kyleisah/Klipper-Adaptive-Meshing-Purging
